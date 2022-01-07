@@ -1,2 +1,2 @@
 # PicManiac\
-https://dbode94/PicManiac
+https://dbode94.github.io/PicManiac/
